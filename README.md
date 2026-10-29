@@ -1,5 +1,7 @@
 # ShoeStore: Full-Stack E-Commerce
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Giathi-Daniel/badge.svg)](https://hub.xerj.org/contributors/Giathi-Daniel)
+
 A complete, Amazon-style shoe store built with the MERN stack: product discovery, reviews, cart, wish list, multi-step checkout, order tracking, payments and an admin dashboard. The storefront is fully responsive and server-rendered.
 
 | Home | Product details |
